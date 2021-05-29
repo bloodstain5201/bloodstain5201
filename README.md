@@ -4,7 +4,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-@bloodstain5201-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/bloodstain5201)](https://twitter.com/bloodstain5201)
 [![Medium Badge](https://img.shields.io/badge/-@shivanshgrover46-03a57a?style=social&labelColor=black&logo=Medium&link=https://medium.com/@shivanshgrover46)](https://medium.com/@shivanshgrover46)
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:shivanshgrover46@gmail.com)](mailto:shivanshgrover46@gmail.com)
-![](https://visitor-badge.glitch.me/badge?page_id=bloodstain5201.bloodstain5201)
 
 - 🔭 I’m currently working on Data Structure
 - 🌱 I’m currently learning Data Science
