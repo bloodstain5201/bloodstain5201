@@ -1,4 +1,4 @@
-### I'm Shivansh Grover <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width=40 height=40 /> 
+# I'm Shivansh Grover <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width=40 height=40 /> 
 
 [![Linkedin Badge](https://img.shields.io/badge/-ShivanshGrover-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/shivanshgrover)](https://www.linkedin.com/in/shivanshgrover/)
 [![Twitter Badge](https://img.shields.io/badge/-@bloodstain5201-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/bloodstain5201)](https://twitter.com/bloodstain5201)
@@ -23,4 +23,6 @@
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/c.svg"></code>
 <code><img height="20" src="https://avatars3.githubusercontent.com/u/18133"></code>
 
-![Shivansh's github stats](https://github-readme-stats.vercel.app/api?username=bloodstain5201&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bloodstain5201&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Shivansh's github stats](https://github-readme-stats.vercel.app/api?username=bloodstain5201&show_icons=true&theme=radical) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bloodstain5201&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
