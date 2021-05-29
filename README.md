@@ -15,12 +15,12 @@
 
 **Languages and Tools:**  
 
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/c.svg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/165px-Python-logo-notext.svg.png"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"></code>
 <code><img height="20" src="https://html5hive.org/wp-content/uploads/2014/06/js_800x800-619x619.jpg.webp"></code>
 <code><img height="20" src="https://sentry.io/_assets/logos/django-f6f336cde20615169bbf4441c748188dd9903908bc6af952df3bd8f899c55a41.svg"></code>
-<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/flask.svg"></code>
-<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/c.svg"></code>
 <code><img height="20" src="https://avatars3.githubusercontent.com/u/18133"></code>
 
 ![Shivansh's github stats](https://github-readme-stats.vercel.app/api?username=bloodstain5201&show_icons=true&theme=radical) 
