@@ -5,7 +5,7 @@
 [![Medium Badge](https://img.shields.io/badge/-@shivanshgrover46-03a57a?style=social&labelColor=black&logo=Medium&link=https://medium.com/@shivanshgrover46)](https://medium.com/@shivanshgrover46)
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:shivanshgrover46@gmail.com)](mailto:shivanshgrover46@gmail.com)
 
-- 🔭 I’m currently working on Data Structure
+- 🔭 I’m currently working on Data Structures
 - 🌱 I’m currently learning Data Science
 - 💬 Ask me about Anything related to Mathematics
 - 📫 How to reach me: Mail - shivanshgrover46@gmail.com | Github - @bloodstain5201 | Linkedin - @shivanshgrover
